@@ -1,6 +1,8 @@
 # compiled output
-/dist
-/node_modules
+/restapi/dist
+/graphql/dist
+/restapi/node_modules
+/graphql/node_modules
 
 # Logs
 logs
